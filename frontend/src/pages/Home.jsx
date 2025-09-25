@@ -166,7 +166,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Why TailorIt */}
+      {/* Why QuickStitch */}
       <section className="container py-14">
         <div className="flex justify-center mb-8">
           <span className="inline-block px-8 py-2 rounded-full bg-accent text-primary font-display text-2xl font-semibold shadow-md border-2 border-accent">
