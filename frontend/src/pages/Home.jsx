@@ -170,7 +170,7 @@ export default function Home() {
       <section className="container py-14">
         <div className="flex justify-center mb-8">
           <span className="inline-block px-8 py-2 rounded-full bg-accent text-primary font-display text-2xl font-semibold shadow-md border-2 border-accent">
-            Why TailorIt
+            Why QuickStitch
           </span>
         </div>
           <div className="grid grid-cols-4 gap-10 max-lg:grid-cols-2">
