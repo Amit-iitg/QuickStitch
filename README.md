@@ -2,6 +2,8 @@
 
 A full-stack web application that connects customers with local tailors, featuring real-time booking, image uploads, payment processing, and comprehensive review system.
 
+🌐 **Website:** [Click here!](https://quickstitch.onrender.com/)
+
 ## 🚀 Features
 
 ### 🎯 **Core Functionality**
@@ -39,8 +41,8 @@ Before running this application, ensure you have:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Tanya741/Tailor-Booking-Website.git
-cd Tailor-Booking-Website
+git clone https://github.com/Amit-iitg/QuickStitch.git
+cd QuickStitch
 ```
 
 ### **2. Environment Setup**
